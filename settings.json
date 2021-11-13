@@ -1,0 +1,3 @@
+{
+	"ETH": {"bounds": [2500, null]}, "DOT": {"bounds": [20, null]}, "DOGE": {"bounds": [0.15, 0.3]}, "FARM": {"bounds": [80, null]}, "SHIB": {"bounds": [null, 3]}, "UNI": {"bounds": [20, null]}, "AVAX": {"bounds": [20, null]}, "LINK": {"bounds": [20, null]}, "ALGO": {"bounds": [1, null]}, "LTC": {"bounds": [140, null]}, "BCH": {"bounds": [250, null]}, "MATIC": {"bounds": [0.9, null]}, "AXS": {"bounds": [40, null]}, "ATOM": {"bounds": [15, null]}, "XLM": {"bounds": [0.25, null]}, "NMR": {"bounds": [30, null]}, "AGLD": {"bounds": [2.5, null]}, "OPEN": {"bounds": [null, 0.0033]}, "SHI": {"bounds": [0.2, null]}
+}
